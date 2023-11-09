@@ -1,0 +1,13 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funcionalidad.js",
+  "scripts": {
+    "test": "jest --env=jsdom",
+    "test:coverage": "jest --coverage --env=jsdom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
